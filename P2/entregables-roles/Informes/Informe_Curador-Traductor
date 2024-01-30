@@ -1,0 +1,104 @@
+----------------------------------------------------------------------------------------- Informe de Curador-Traductor ------------------------------------------------------------------------------------------  
+				                                                     	  Semana del 20-26 de noviembre 	      
+
+-------------------------
+Objetivos de Aprendizaje:
+-------------------------
+
+	# Tarea 1:
+	---------- 
+		
+	-Familiarizarce con la API proporcionada. 
+	-Diseño de la interfaz con sus diferentes casos de uso.
+	-Conocimiento y consecuentemente selección del patrón arquitectónico.
+	-Diseño software realizado en UML.
+	-Familiarización con flutter.
+	-Estructuracion modular del codigo permitiendo la independencia entre vista y estado/modelo. 
+	-Comunicación y resolucion de conflictos efectiva.
+	-Colaboración y organización entre los integrantes.
+	-Búsqueda efectiva de información. 
+	-Capacidad de adaptación de lenguajes.
+
+
+	# Tarea 2:
+	----------
+
+	-Comunicación efectiva y resolución de conflictos. 
+	-Colaboración y organización entre los integrantes.
+	-Búsqueda efectiva de información. 
+	-Capacidad de adaptación de lenguajes.
+	-Uso de librerias en flutter. 
+	-Aprender programación dirigida a eventos.
+	-Uso de la concurrencia. 
+	-Contemplación e implementación de errores. 
+	-Uso de la API proporcionada.
+
+
+	# Tarea 3:
+	----------
+
+	-Implementacion de test end to end.
+	-Detención de posibles errores.
+	-Comunicación efectiva y resolución de conflictos. 
+	-Colaboración y organización entre los integrantes.
+	-Búsqueda efectiva de información. 
+
+
+---------------------	
+Banco de información:		
+---------------------		
+
+	# Tarea 1:
+	---------- 
+	
+	-Familiarización con Flutter. 
+		1.Enlace: https://flutter.dev/learn
+		  Resumen: Guia de iniciación en flutter.
+		2.Enlace: https://www.youtube.com/watch?v=1xipg02Wu8s
+		  Resumen: Video explicativo de los aspectos básicos de flutter.
+		3.Ejemplo propocionado por los profes.
+		4.Enlace: https://github.com/flutter/samples/tree/main/provider_shopper
+		  Resumen: Ejemplo que utilizamos para el entendimiento de lo que ibamos a realizar (diseños).
+		
+	-Conocimiento y elección de patrón arquitectónico.
+		1.Enlace: https://www.youtube.com/watch?v=vIwYSFnT2D0
+		2.Enalce: https://www.youtube.com/watch?v=-KX2rH0qdKA  
+		  Resumen: Videos explicativos de las diferentes arquitecturas.
+
+	-Diseño software: 
+		1.Enlace: https://mermaid.js.org/config/Tutorials.html
+		  Resumen: Página que nos sirve de guía para la realización del UML en mermaid.
+
+
+	# Tarea 2:
+	----------
+
+	-Programación en flutter. 
+		1.Enlace: https://docs.flutter.dev/
+		  Resumen: proporción de librerias y ejemplos de código.
+
+	-Gestión de errores.
+		1.Enlace: https://stackoverflow.com/questions/70209528/checkboxes-wont-align-to-the-right
+		  Resumen: Solución al problema de alinear la checkbox.
+		2.Enlace: https://stackoverflow.com
+		  Resumen: Lo usamos para resolver diferentes errores que nos fueron surgiendo.
+		3.Enlace: https://api.flutter.dev/flutter/material/showDialog.html
+		  Resumen: Para gestionar los errores de conexión. 
+
+	-Concurrencia. 
+		2.Enlace: https://api.flutter.dev/flutter/dart-async/Future-class.html 
+		  Resumen: Para implementar programación asincrona. 
+		3.Enlace: https://chat.openai.com/
+		  Resumen: En general para resolver diferentes casos que nos iban surgiendo en cuanto a la concurrencia.
+
+
+	# Tarea 3:
+	----------
+
+	-Implementación de test: 
+		1.Enlace: https://docs.flutter.dev/testing/overview
+		  Resumen: Documentación de flutter de testing. 
+		2.Enlace: https://stackoverflow.com/questions/54538603/how-to-mimic-a-pressing-enter-on-a-textfield-in-flutter-tests
+		  Resumen: Resolvimos un problema que nos estaba dando a la hora de testear la conversión de monedas.
+		3.Ejemplo proporcionado por los profes. Realmente fue la herramienta de más ayuda.
+	

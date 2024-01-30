@@ -1,0 +1,148 @@
+-----------------------------------------Informe de analista --------------------------------------------------------------
+				                              Semana del 30/10 al 04/11
+
+------------------------------------------------
+CALIFICACIÓN SEMANAL DE LOS MIEMBROS DEL EQUIPO:
+------------------------------------------------
+
+- Santiago Alfredo Castro Rampersad (Facilitador | Administrador):
+          NOTA: 4/5
+          La persona ha realizado su función y parte de la tarea correctamente, a tiempo y sin grandes errores. 
+          Ayudó al equipo a centrar su atención en lo importante y no en el grano fino de cada operación. Esta forma de 
+          dirigir al equipo permitió que la tarea se entregase en tiempo con participación de cada uno de los miembros.
+          Cabe destacar su facilidad para encontrar fuentes de información útil que beneficiaron al equipo. Fue el miembro
+          del equipo que mejor entendió la lógica entre componentes. 
+          No se le adjudica la máxima nota porque en un momento de crisis los miembros del equipo se desmotivaron y no fueron
+          capaces de animarse hasta acabar la tarea. 
+
+- Daniela Alejandra Cisneros Sande (Curadora | Traductora): 
+          NOTA: 3/5
+          La persona ha realizado su función y parte de la tarea correctamente, a tiempo y sin grandes errores.
+          Proporcionó las fuentes de información iniciales de esta tarea y definió claramente los objetivos de 
+          aprendizaje que el equipo debía alcanzar. 
+          No se le adjudica la máxima nota porque hubo que buscar más información de la que ella proporcionó 
+          para poder seguir adelante con la tarea semanal. Falta trabajo personal para entender de forma general
+          la lógica de los componentes.
+
+- Iria Pardo Neira (Analista):
+          NOTA: 3/5
+          La persona ha realizado su función y parte de la tarea correctamente, a tiempo y sin grandes errores.
+          Aportó ánimos al equipo al inicio de la tarea, pero tampoco fue capaz de animar en el momento de crisis.
+          Encontró la solución de uno de los problemas a la hora de entregar la tarea semanal. Falta trabajo 
+          personal para entender de forma general la lógica de los componentes.
+
+----------------------------- 
+REFLEXIÓN FINAL DE LA SEMANA:
+----------------------------- 
+
+Esta semana, a pesar de ser la primera de las tareas, ha sido muy dura. El equipo se encontró con un gran reto a
+afrontar: El diseño software de una aplicación sin conocer en absoluto el lenguaje Dart ni como funciona el paso
+de mensajes entre los distintos Widgets. Además, se debía de implementar un patrón de diseño totalmente desconocido.
+Lo mejor de esta semana fue darse cuenta de que a pesar de las dificultades y tensiones durante los días de trabajo, 
+la tarea 1 fue terminada con éxito. 
+Durante esta primera tarea se aprendió a como enfrentarse a un territorio totalmente desconocido y a sacar el máximo
+partido a la información que se tiene en disposición. El equipo también se dio de cuenta de que a veces no es posible
+tener la mejor cara cuando se está trabajando y que hay que lidiar con los sentimientos de cada miembro en todo 
+momento. 
+Cara las próximas semanas, se debe conservar la actitud de nunca rendirse aunque sea complicado seguir adelante, y
+se debe intentar hacer algún descanso cuando el ambiente esté caldeado para luego poder trabajar mejor y sacar el 
+máximo partido de cada uno.
+Siempre se debe tener en mente que estas prácticas son muy útiles para enfrentarse al mundo real y al trabajo en 
+equipo. Así pues, se debe sacar provecho de las lecciones aprendidas en cada una de las treas y aplicarlas en el 
+futuro.
+
+-----------------------------------------------------------------Informe de analista ------------------------------------------------------------------------
+				                              Semana del 13/11 al 19/11
+
+------------------------------------------------
+CALIFICACIÓN SEMANAL DE LOS MIEMBROS DEL EQUIPO:
+------------------------------------------------
+
+- Santiago Alfredo Castro Rampersad (Facilitador | Administrador):
+          NOTA: 5/5
+	  La persona ha realizado su función y parte de la tarea correctamente, a tiempo y sin grandes errores. 
+	  Este miembro del equipo realizó su rol de forma muy satisfactoria. En esta iteración de la práctica
+	  logró mantener a los miembros centrados en su función y no surgieron grandes conflictos. Se encargó
+	  de gran parte de la comunicación entre widgets. Cabe mencionar su facilidad para buscar información 
+	  y solucionar errores que planteaban los otros dos miembros. 
+
+- Daniela Alejandra Cisneros Sande (Curadora | Traductora): 
+          NOTA: 4/5
+	  La persona ha realizado su función y parte de la tarea correctamente, a tiempo y sin grandes errores.
+	  Este miembro del equipo se encargó de la parte visual de la aplicación: que lo widgets se colocasen en 
+	  su debido lugar, tuviesen el formato correcto y de que la aplicación se adaptase dependiendo del dispositivo.
+	  Trabajó muy bien individualmente pero no lleva la máxima nota pues el aspecto de trabajo en equipo se 
+	  puede mejorar para la siguiente iteración. 
+
+- Iria Pardo Neira (Analista):
+          NOTA: 4/5
+	  La persona ha realizado su función y parte de la tarea correctamente, a tiempo y sin grandes errores.
+	  Este miembro del equipo se encargó de desarollar la lógica de algunos componentes del código y parte de 
+	  la parte gráfica. No lleva la máxima nota porque tuvo que abandonar al equipo en algunos momentos de 
+	  trabajo para dedicar tiempo a otras actividades urgentes. 
+
+----------------------------- 
+REFLEXIÓN FINAL DE LA SEMANA:
+----------------------------- 
+
+Esta semana se presentó más tranquila que la anterior. Aunque el equipo tenía por delante mucho trabajo que afrontar,
+no se vieron tan desesperados como en la primera iteración. Esto se debe a que ya habían adquirido bastante conocimiento
+sobre el lenguaje y la lógica de la aplicación al realizar los diagramas la semana pasada. 
+Puesto que los horarios de los miembros eran bastante dispares, se decidió dividir un poco el trabajo: mientras Daniela
+se encargaba de la parte gráfica, Santi e Iria desglosaban la lógica de la aplicación y las comunicaciones entre Widgets.
+A raíz de esta semana, se ha aprendido a trabajar en un equipo con diversa disponibilidad y a tolear el horario de cada
+miembro. Además, se han adquirido habilidades a cerca de cómo poner en común distintas ideas y juntarlo todo en un
+mismo código.
+Lo mejor de la práctica ha sido ver como se van adquiriendo competencias con el lenguaje a medida que se entiende
+mejor la interacción con los componenetes. El peor momento siempre es estar alrededor de 5 horas intentando solucionar
+un mismo error y que cada vez aparezcan más errores por solucionar. A raíz de esto se aprende también a mantener la 
+calma y tener confianza en uno mismo para lograr entregar el trabajo a tiempo.
+Para mejorar en semanas posteriores, se debería intentar compenetrar mejor al equipo para lograr trabajar todos al 
+mismo tiempo, sin pisarse código y ayudarse unos a otros. Sin embargo, esta es una práctica muy complicada y mientras
+no sea posible alcanzar este objetivo es mejor dividir el trabajo para después ponerlo en común.
+
+
+-----------------------------------------------------------------Informe de analista ------------------------------------------------------------------------
+				                              Semana del 20/11 al 26/11
+
+------------------------------------------------
+CALIFICACIÓN SEMANAL DE LOS MIEMBROS DEL EQUIPO:
+------------------------------------------------
+
+- Santiago Alfredo Castro Rampersad (Facilitador | Administrador):
+          NOTA: 5/5
+	  El miembro del equipo ha realizado su función completamente. El equipo no se encontró desanimado
+	  en ningún momento y la tarea fue fluyendo correctamente. Fue cooperando con el resto del equipo
+	  para la elaboración de los test, aportando ideas de los casos de prueba a probar. Fue el encargado
+	  de ir ejecutando los test individualmente para comprobar su correcto funcionamiento.
+
+- Daniela Alejandra Cisneros Sande (Curadora | Traductora): 
+          NOTA: 5/5
+	  El miembro del equipo ha realizado su función completamente. Se encargó de recopilar la información 
+	  para iniciar la realización de los test. Ella explicó al equipo como funcionaban los ejemplos de la 
+	  asignatura. También ayudó a pensar los casos de prueba de la aplicación. Buscó información sobre 
+	  utilidades de la librería test para realizar acciones como, por ejemplo, hacer click en el botón
+	  "done" del teclado.
+
+- Iria Pardo Neira (Analista):
+          NOTA: 5/5
+          Este miembro del equipo ha realizado su función completamente. Se encargó de pensar los casos de prueba
+	  y de organizar al equipo. Consiguió que todo el equipo trabajase conjunto sin pisarse código y que todos
+	  aportasen algo a la realización de los test.
+
+----------------------------- 
+REFLEXIÓN FINAL DE LA SEMANA:
+----------------------------- 
+
+El trabajo de esta semana no supuso un gran esfuerzo por parte del equipo. La realización de los test fue una tarea
+bastante sitemática. Lo más complicado fue pensar los casos de prueba de forma que no quedase ningún caso por 
+comprobar. Sin embargo, la programación de los mismos y su ejecución resultó bastante sencilla. Lo único a destacar
+es que se tuvo que buscar alguna acción adicional de la librería de test que no estaba en los ejemplos de la
+asignatura. El equipo está muy contento por como acabó esta semana, todos apoyándose entre sí, aportando sus ideas y
+solucionando los pocos errores que surgieron. Resultó una práctica muy satisfactoria programar test que verificaban
+que la aplicación anterirormente programada funcionase bien. Además, se obtuvieron conocimientos sobre como
+realizar test end-to-end con Flutter.
+
+
+
+

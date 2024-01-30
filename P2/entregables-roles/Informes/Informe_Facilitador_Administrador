@@ -1,0 +1,85 @@
+Informe Semanal del Facilitador-Administrador
+
+Semana del 30 de Octubre al 05 de noviembre de 2023
+
+Resumen de la semana:
+
+Lo primero que hicimos como equipo fue realizar una búsqueda de diferentes aplicaciones móviles para obtener inspiración
+para nuestro diseño. Para la elaboración del diseño, una persona realizaba bocetos mientras las otras dos aportaban ideas 
+y feedback sobre cómo debía ser hecho. Esta etapa no presentó mayores problemas y en un par de horas quedó terminada.
+
+El resto de la semana lo dedicamos en buena parte a familiarizarnos con Flutter y Dart, ya que son lenguajes totalmente 
+desconocidos para el equipo. Tambien tuvimos que entender y aprender a implementar el patrón Provider.Para esto, utilizamos 
+las fuentes de información recomendadas por la Curadora/Traductora y algunas adicionales.
+
+"Familiarizados con Dart, Flutter y el patrón Provider", empezamos a desarrollar el diseño de software. Comenzamos con el 
+diseño UML estático, primero definimos todas las clases que consideramos necesarias y luego les agregamos los atributos, 
+métodos y relaciones entre ellas. Una vez completado el diagrama estático, elaboramos varios diagramas dinámicos, cada uno 
+representando la secuencia de ejecución de una funcionalidad de la aplicación.
+
+Distribución de tareas:
+
+Dado que estas tareas requerían que las herramientas de diseño de la interfaz de usuario y de diseño de software fueran 
+utilizadas por una persona a la vez, el miembro del equipo con más experiencia en la herramienta la manejaba, mientras los 
+otros dos aportaban ideas y ayudaban para asegurarse de que quedara adecuadamente diseñada.
+
+Resolución de conflictos:
+
+En la parte del diseño de la UI no hubo problemas, y todo salió bastante bien y rápido. Los desafíos surgieron cuando abordamos
+el diseño de software, ya que resultó ser una tarea complicada debido al poco tiempo disponible y a nuestra falta de experiencia
+con el lenguaje y el patrón de diseño elegidos. Al final, siempre algun miembro del equipo iba "entendiendo" y trataba de explicar
+a los que no entendieran, tratando de mantenernos al mismo ritmo. Sin embargo, el hecho de que no todos entendieran al mismo tiempo 
+generó interrupciones constantes, lo que a veces afectó el ánimo del equipo. Además, ese día, ninguno de nosotros tenía el mejor 
+estado de ánimo, y el cansancio acumulado de la semana también contribuyó a la situación. A pesar de todo, logramos alcanzar un 
+resultado bastante decente y cumplimos nuestros objetivos.
+
+Revisión del repositorio de github:
+
+Según los commits del repositorio, se puede ver que todos los miembros del equipo participaron activamente 
+en el diseño de la interfaz de usuario.
+
+Semanas del 06 de noviembre al 19 de noviembre de 2023
+
+Resumen de la semana:
+
+En primer lugar, trabajamos en la parte del catálogo de la aplicación, utilizando un JSON con una gran cantidad de monedas de diferentes
+países.Esta parte no tuvo mayores complicaciones. Al finalizar el catálogo, comenzamos con la pantalla de favoritos utilizando el server
+stub. Analizamos los casos posibles al añadir una moneda desde el catálogo o al generar un cambio de divisas desde favoritos. Luego 
+conectamos la app a la API y tuvimos que implementar más casuística al hacer un cambio de divisas, ya que teníamos nuevos casos que tener en
+cuenta. Implementamos la gestión de errores y finalizamos modificando los diagramas y el diseño.
+
+Distribución de tareas:
+
+En general, estábamos haciendo pair programming. En algunos casos, dos personas estaban programando en una parte más lógica y otra se encargaba
+de la parte más visual y de que se adaptara a los distintos dispositivos. En la modificacion de los diagramas y diseños dos nos encargamos de
+los diagramas y una del diseño.
+
+Resolución de conflictos:
+
+No hubo mayores conflictos. Como mencioné anteriormente, al conectar con la API aumentó la casuística y esto hizo que tuviéramos que darle un par
+de vueltas a todos los casos y cómo gestionarlos. Otro caso particular que dio problemas era al mostrar el diálogo de error de conexión; al final 
+encontramos la solución y ya funcionaba perfectamente. Solucionar este error nos ayudó a solucionar otro en el que el teclado se quitaba de la vista 
+apenas se desplegaba, ya que esto pasaba por algo parecido.
+
+Revisión del repositorio de GitHub:
+
+Según los commits del repositorio, se puede ver que todos los miembros del equipo participaron activamente en el diseño de la interfaz de usuario.
+
+Semanas del 20 de noviembre al 26 de noviembre de 2023
+
+Resumen de la semana:
+
+En primer lugar pensamos que ibamos a probar y procedimos a implementar los tests.
+
+Distribución de tareas:
+
+La tarea se hizo casi en su totalidad aplicando la tecnica de pair programing ya que no se podia paralelizar mucho el trabajo.
+
+Resolución de conflictos:
+
+N/A
+
+Revisión del repositorio de GitHub:
+
+Según los commits del repositorio, se puede ver que todos los miembros del equipo participaron activamente en el diseño de la interfaz de usuario.
+
