@@ -1,0 +1,122 @@
+Informe Semanal del Facilitador-Administrador
+Semana del 09 de Octubre al 15 de Octubre de 2023
+
+Resumen de la semana:
+
+En primer lugar, nuestro equipo puso en común los diseños de la interfaz de usuario. Nos decantamos por
+una de las opciones y la adaptamos a los casos de uso elegidos. Dedicamos el resto de la semana a la implementación
+de la interfaz usando Python y la librería Gtk.
+
+Dedicamos el inicio de la semana a la obtención de información y familiarización con el lenguaje Python
+ y la librería Gtk. Usamos las fuentes de información recomendadas por el Traductor-Curador y nos encontramos
+con la dificultad de la escasa información sobre la versión 4 de Gtk. Conseguimos superar este obstáculo
+dedicando muchas horas al entendimiento de las fuentes y de los ejemplos dados en clase. 
+
+Seguimos con la implementación de cada uno de los casos de uso, comenzando por el caso de uso "buscar cocktail
+por nombre".  Primero investigamos como obtener la información de la API e implementamos la función correspondiente
+en la capa modelo. A continuación, decidimos los Widgets que íbamos a necesitar y empezamos a incorporarlos a la 
+vista, haciendo que se comunicasen con la capa modelo a través del Presenter, teniendo en cuenta siempre que el 
+patrón arquitectónico a usar sería el MVP. Seguimos este patrón para la implementación del resto de casos de uso, 
+comenzando siempre por la capa modelo y acabando por implementar la comunicación con el resto de capas.
+
+Distribución de tareas:
+
+El equipo se dividió el trabajo para poder optimizar mejor el tiempo. Un miembro del equipo se encargaba de las
+funciones de la capa modelo (comunicación con la API) mientras que los otros dos realizaban pruebas sobre cómo 
+mostrar de la manera más adecuada la información en la vista, haciendo uso correcto de los Widgets.
+
+Resolución de conflictos:
+
+Aunque las tareas estaban diferenciadas entre los miembros del equipo de diseño, la resolución de conflictos
+se llevó a cabo con la ayuda de los tres miembros del equipo. Es decir, siempre se llegó a una solución consensuda
+cuando había opiniones diferentes. Además, cuando uno de los miembros no encontraba solución a un fallo en el 
+código, todos se centraban en solucionarlo, lo que aumenta la eficiencia del trabajo.
+
+Revisión del repositorio de github:
+
+Según los commits del repositorio, se puede ver que todos los miembros del equipo participaron activamente 
+en el diseño e implementación de la interfaz de usuario.
+
+La Facilitadora-Administradora,
+
+Pardo Neira, Iria
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Informe Semanal del Facilitador-Administrador
+Semana del 16 de Octubre al 22 de Octubre de 2023
+
+Resumen de la semana:
+
+El equipo tuvo que enfrentarse a cambios grandes en la interfaz con poco tiempo para realizarlos. 
+Los cambios consistían en la eliminación del caso de uso buscar cocktail por categoría, listar categorías y
+listar ingredientes. Ahora la búsqueda por ingrediente se hace directamente desde la barra buscadora. Además, 
+se tuvo que implementar un sistema de listado mediante páginas, para que los cóckteles se cargaran poco a poco.
+Además de todos estos cambios, el equipo debía realizar las nuevas tareas para la semana 2: el manejo de los
+errores y la implmentación de la concurrencia.
+
+Distribución de tareas:
+
+Esta semana fue complicado poder cuadrar horarios para que todos los miembros del equipo pudiesen trabajar juntos,
+por lo que tuvimos que repartir el trabajo para poder entregar la tarea a tiempo. Aunque para implementar los 
+cambios trabajamos todos juntos al mismo tiempo, para las nuevas funcionalidades uno de los miembros se encargó 
+de los errores mientras que el resto se centró en el problema de la concurrencia.
+
+Resolución de conflictos:
+
+La cantidad de conflictos en esta iteración de la tarea se vió incrementada respecto a la semana anterior.
+Cabe destacar el conflicto a la hora de implementar la concurrencia en el código, pues cuando el equipo
+llevaba trabajando más de 12h seguidas y no daban con la solución, las tensiones empezaron a aflorar. 
+Lo correcto habría sido parar a descansar y seguir el día siguiente, pero la cebezonería y la falta de 
+tiempo hicieron que siguiésemos intentándolo hasta que encontramos la solución. Esta no es una práctica 
+recomendable y lo mejor para futuras iteraciones sería intentar distribuír mejor los horarios de trabajo
+y descanso.
+
+Revisión del repositorio de github:
+
+A pesar de los conflictos y dificultades de esta semana, el repositorio refleja un trabajo exitoso y una
+participación activa de todos los miembros del equipo.
+
+La Facilitadora-Administradora,
+
+Pardo Neira, Iria
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Informe Semanal del Facilitador-Administrador
+Semana del 23 de Octubre al 29 de Octubre de 2023
+
+Resumen de la semana:
+
+Esta semana el equipo tuvo que realizar una serie de cambios para mejorar la aplicación e implementar
+la internacionalización de la interfaz. Mientras que la internacionalización resultó ser bastante
+sencilla, el equipo se tuvo que enfrentar a problemas que iban apareciendo en la interfaz mientras 
+aplicaban los cambios necesarios.
+
+Distribución de tareas:
+
+El mismo día que se recibió el feedback, los miembros del grupo trabajaron juntos para realizar los 
+cambios. Entre los cambios se encontraba: eliminar las llamadas a threads y mutex desde la view y hacerlas
+desde el presenter, impedir que se realizaran varias operaciones de E/S al mismo tiempo, hacer que el 
+primer cocktail de la lista apareciera seleccionado por defecto y añadir dos situaciones nuevas de error: 
+error de búsqueda vacía y error de búsqueda sin resultado. 
+Los dos días siguientes, dos de los miembros del equipo se encargaron de ir realizando la internacionalización
+mientras el otro de los miembros intentaba solucionar los problemas que habían aparecido a raíz del cambio.
+
+Resolución de conflictos:
+
+Debido a que un solo miembro del equipo se encargaba de solucionar los problemas, empezó a sentirse la tensión 
+y el cansancio. El equipo optó por poner todos sus esfuerzos en la internacionalización (que era la tarea 
+principal de esta semana) y luego trabajar los tres juntos en la resolución de errores. Esta disposición 
+del trabajo resultó ser efectiva, pues al centrar todos los esfuerzos en una sola actividad, los miembros
+se sintieron apoyados y trabajaran mejor juntos.
+
+Revisión del repositorio de github:
+
+Finalmente, todas las tareas se pudieron realizar en plazo y cada uno de los miembros estuvo presente en 
+cada uno de los commits de este incremento.
+
+La Facilitadora-Administradora,
+
+Pardo Neira, Iria
+

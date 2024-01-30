@@ -1,0 +1,80 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-26 17:51+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: view.py:103
+msgid "Cocktails' App"
+msgstr ""
+
+#: view.py:156
+msgid "SEARCH BY NAME"
+msgstr ""
+
+#: view.py:158
+msgid "SEARCH BY INGREDIENT"
+msgstr ""
+
+#: view.py:391
+msgid "Ingredients"
+msgstr ""
+
+#: view.py:392
+msgid "Instructions"
+msgstr ""
+
+#: view.py:393
+msgid "Glass"
+msgstr ""
+
+#: view.py:505
+msgid "SERVERS DOWN!"
+msgstr ""
+
+#: view.py:506
+msgid ""
+"The cocktail party on our server is temporarily paused!Our team of party "
+"experts is working at full speed to bring the fun back."
+msgstr ""
+
+#: view.py:527
+msgid "NO INTERNET!"
+msgstr ""
+
+#: view.py:528
+msgid ""
+"Oops! We're mixing the signal, not the cocktails. Please connect to the "
+"Internet to enjoy our wide selection of refreshing beverages."
+msgstr ""
+
+#: view.py:549
+msgid "COCKTAIL NOT FOUND!"
+msgstr ""
+
+#: view.py:550
+msgid ""
+"Houston, we have a problem! This cocktail is hiding quite well in our "
+"database. How about trying another one?"
+msgstr ""
+
+#: view.py:585
+msgid "Search in progress... Try again when this message disappears"
+msgstr ""
+
+#: view.py:587
+msgid "Empty search field, type something to search!"
+msgstr ""

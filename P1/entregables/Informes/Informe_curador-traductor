@@ -1,0 +1,94 @@
+Informe del Curador-Traductor
+
+Objetivos de Aprendizaje:
+
+Tarea 1:
+    	-Diseño de Casos de Uso y de la Interfaz.
+
+    	-Selección y Aplicación de Patrones Arquitectónicos.
+
+    	-Diseño Software con UML.
+
+    	-Aprender el uso de Python con Gtk+.
+
+   	-Estructuración Modular del Código.
+	
+	-Comunicación efectiva y resolución de conflictos.
+	
+	-Planificación, organización y gestión de tiempo.
+
+	-Colaboración y cooperación.
+
+	-Busqueda efectiva de información con escepticismo.
+     	
+Tarea 2:
+	-Uso de concurrencia en interfaces graficas
+
+	-Manejo de errores
+
+	-Manejo de excepciones en python
+
+	-Mantener la calma ante una modificación grande de la interfaz
+
+Tarea 3:
+	-Internacionalización de una Interfaz Grafica usando locale
+	
+
+Banco de información:
+
+Tarea 1:
+	- Elección de arquitectura
+		Enlace: https://www.youtube.com/watch?v=eHhXoCNCI1c&t=575s
+		Resumen: Video explicativo sobre diferentes arquitecturas.
+
+	- Python Tutorial
+		Enlace: https://www.w3schools.com/python
+		Resumen: Guía de diferentes aspectos de python
+	
+	- Manual de GTK 3 en python
+		Enlace: https://python-gtk-3-tutorial.readthedocs.io/en/latest/gallery.html
+		Resumen: Manual de uso de GTK en python. Lo malo es que era de la version 3
+
+
+	- Manual de GTK 4
+		Enlace: https://python-gtk-3-tutorial.readthedocs.io/en/latest/gallery.html
+		Resumen: Manual oficial de GTK 4.
+
+	- Stack Overflow
+		Enlace:https://stackoverflow.com/
+		Resumen: busqueda de errores que teniamos para poder resolverlos.
+
+Tarea 2:
+	-Manejo de errores y excepciones en python
+		Enlace: https://docs.python.org/3/tutorial/errors.html
+		Resumen: Manual para el manejo de errores y excepciones en el lenguaje python
+
+	-Errores y Excepciones del modulo requests de python
+		Enlace: https://www.geeksforgeeks.org/exception-handling-of-python-requests-module/
+		Resumen: Explican que errores y excepciones puedes tener con el modulo requests
+
+	-Manejo de threads python
+		Enlace: https://www.geeksforgeeks.org/exception-handling-of-python-requests-module/
+		Resumen: Manejo de concurrencia en python
+
+	-Error especifico que nos daba en ejecución 
+		Enlace: https://blog.csdn.net/Creationyang/article/details/129023348
+		Resumen: Cuando estabamos haciendo concurrente la aplicación nos daba un error que 
+		solo pudimos encontrar referencia en ese foro chino. Para poder usar la pagina hay 
+		que usar la herramienta de google de traducir una pagina web y cambiarlo preferiblemente a 
+		ingles.
+
+	-ChatGPT
+		Enlace: https://chat.openai.com/
+		Resumen: Le preguntabamos sobre todo como poder hacer ciertas cosas con algun widget.
+
+Tarea 3:
+	-Error al ejecutar internacionalización
+		Enlace: https://askubuntu.com/questions/1412305/why-does-sudo-gnome-text-editor-throw-glib-gio-critical-error
+		Resume: Mala praxis a la hora de ejecutar la app internacionalizada y hacerlo con sudo. Con esta pagina nos
+		dimos cuenta del error, explican que supuestamente con sudo no se pueden ejecutar programas greaficos.
+
+	-Ejemplo de practicas de internacionalización
+		Enlace: -
+		Resumen: Con el ejemplo de practicas nos basto para poder implementar toda la internacionalización sin
+		consultar otra fuente.

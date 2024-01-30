@@ -1,0 +1,89 @@
+# Spanish translations for ipm package.
+# Copyright (C) 2023 THE ipm'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the ipm package.
+# Santiago <santi@santipc>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ipm 2324-p1-grupo_50\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-26 17:51+0200\n"
+"PO-Revision-Date: 2023-10-26 17:51+0200\n"
+"Last-Translator: Santiago <santi@santipc>\n"
+"Language-Team: Spanish <es@tp.org.es>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: view.py:103
+msgid "Cocktails' App"
+msgstr "Aplicación de Cócteles"
+
+#: view.py:156
+msgid "SEARCH BY NAME"
+msgstr "BUSCAR POR NOMBRE"
+
+#: view.py:158
+msgid "SEARCH BY INGREDIENT"
+msgstr "BUSCAR POR INGREDIENTE"
+
+#: view.py:391
+msgid "Ingredients"
+msgstr "Ingredientes"
+
+#: view.py:392
+msgid "Instructions"
+msgstr "Instrucciones"
+
+#: view.py:393
+msgid "Glass"
+msgstr "Vaso"
+
+#: view.py:505
+msgid "SERVERS DOWN!"
+msgstr "¡SERVIDORES CAIDOS!"
+
+#: view.py:506
+msgid ""
+"The cocktail party on our server is temporarily paused!Our team of party "
+"experts is working at full speed to bring the fun back."
+msgstr ""
+"La fiesta de cóctel en nuestro servidor está temporalmente pausada."
+"Nuestro equipo de expertos fiesteros está trabajando a toda velocidad" 
+"para devolver la diversión."
+
+#: view.py:527
+msgid "NO INTERNET!"
+msgstr "¡NO HAY INTERNET!"
+
+#: view.py:528
+msgid ""
+"Oops! We're mixing the signal, not the cocktails. Please connect to the "
+"Internet to enjoy our wide selection of refreshing beverages."
+msgstr ""
+"¡Oops! Estamos mezclando la señal, no los cócteles. Por favor, conéctese"
+ "a Internet para disfrutar de nuestra amplia selección de refrescantes" 
+ "bebidas."
+
+#: view.py:549
+msgid "COCKTAIL NOT FOUND!"
+msgstr "¡NO ENCONTRAMOS ESTE CÓCTEL!"
+
+#: view.py:550
+msgid ""
+"Houston, we have a problem! This cocktail is hiding quite well in our "
+"database. How about trying another one?"
+msgstr ""
+"¡Houston, tenemos un problema! Este cóctel"
+"se esconde bastante bien en nuestra base de datos."
+"¿Qué tal probar con otro?"
+
+#: view.py:585
+msgid "Search in progress... Try again when this message disappears"
+msgstr "Búsqueda en curso... Inténtalo de nuevo cuando este mensaje desaparezca"
+
+#: view.py:587
+msgid "Empty search field, type something to search!"
+msgstr "¡Campo de búsqueda vacío, escribe algo para buscar!"
