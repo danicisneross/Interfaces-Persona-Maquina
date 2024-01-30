@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!--Es para adaptar al tamaño de la pantalla-->
+        <title>To Do List</title>
+        <link rel="stylesheet" href="styles.css">
+        <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.8/css/line.css">
+    </head>
+    
+    <body>
+        <div class="head-container">
+            <h1>To Do List</h1>
+
+            <div class="options-container">
+                <button id="optionsBtn" aria-label="Menu Options Task" tabindex="0">
+                    <i class="uil uil-ellipsis-v"></i>
+                </button>
+                <div id="menu-container" class="menu-container" tabindex="0">
+                    <div role="menu" class="menu-content">
+                        <button id="completeTaskBtn" tabindex="0">Complete all tasks</button>
+                        <button id="deleteTaskBtn" tabindex="0">Delete done tasks</button>
+                    </div>
+                </div>
+            </div> 
+
+            <div class="date-container" tabindex="0">
+                <div class="day-container">
+                    <p id="day" class="large-text"></p>
+                </div>
+                <div class="month-container">
+                    <p id="dayOfWeek" class="small-text"></p>
+                    <p id="monthYear" class="small-text"></p>
+                </div>
+            </div>
+        </div>
+
+        <div class = "screen">
+            <div class ="tasks">
+                <ul class="filters">
+                    <li class="All"><p>All</p></li>
+                    <li><p>Pending</p></li>
+                    <li><p>Completed</p></li>
+                </ul>
+                <div class="menu-content">
+                        <button class="menu-content-button" tabindex="0">Complete all tasks</button>
+                        <button class="menu-content-button" tabindex="0">Delete done tasks</button>
+                </div>
+
+                <p id="task-number" class="task-number" tabindex="0">Active Tasks: 1</p>
+
+                <div id= "allTasks" class = "allTasks" >
+                    <ul id="pending-list" class="task-list" tabindex="0">
+                        <li tabindex="0">Example task    
+                            <button class="uil uil-ellipsis-h" aria-label="Dropdown menu with options" tabindex="0"></button>
+                            <p>25 Dec 2023</p>
+                            <p>Large description</p>
+                            <div class = "edit-container">
+                                <button class = "containerButton" tabindex="0">Edit</button>
+                                <button class = "containerButton" tabindex="0">Delete</button>
+                            </div></li>
+                    </ul>
+                    <ul id="completed-list" class="task-list" tabindex="0">
+                        <li class = "checked" tabindex="0" >Completed example task
+                            <button class="uil uil-ellipsis-h" aria-label="Dropdown menu with options" tabindex="0"></button>
+                            <div class = "edit-container">
+                                <button class = "containerButton" tabindex="0">Edit</button>
+                                <button class = "containerButton" tabindex="0">Delete</button>
+                            </div></li>
+                    </ul>
+                </div>
+            </div>
+        
+            <form id="taskForm" class="task-form" aria-label="Add task form" tabindex="0">
+                <div class = "close" role="button" aria-label="Close form" tabindex="0" ><span id = "close">&times;</span></div>
+                <h2  >Add Task</h2>
+                <div class="form-element" role="group" aria-labelledby="name-group">
+                    <label id="name-group" for="name">Task name</label>
+                    <input type="text" id="name" placeholder="Enter a task name" aria-describedby="errorMsg">
+                    <p id = "errorMsg" role="alert">Task name is required!</p>
+                </div>
+                <div class="form-element">
+                    <label for="description">Description</label>
+                    <input type="text" id="description" name="description" placeholder="Enter optional description">
+                </div>
+                <div class="form-element">
+                    <label>
+                        Date: <input type="date" id="dueDate" name="date">
+                    </label>
+                </div>
+                <div class="form-element">
+                    <button id ="add" type="submit" tabindex="0">Add</button>
+                </div>
+            </form>  
+        </div>
+
+        <button id="addTaskButton" class="add-task-button" aria-label="Button to add taks" tabindex="0">
+            <i class="uil uil-plus"></i>
+        </button>
+
+        <script src="script.js"></script>
+    </body>
+</html>

@@ -1,0 +1,74 @@
+-----------------------------------------------------------------Informe de analista ------------------------------------------------------------------------
+				                              Semana del 26/11 al 03/12
+
+------------------------------------------------
+CALIFICACIÓN SEMANAL DE LOS MIEMBROS DEL EQUIPO:
+------------------------------------------------
+
+- Santiago Alfredo Castro Rampersad (Analista):
+          NOTA: 4/5
+	  El miembro del equipo ha realizado su función correctamente. Hubo un día que no estuvo al 100% e hizo
+	  que que se trenajara menos ese día, esto tampoco tuvo mayor repercusión.
+
+- Daniela Alejandra Cisneros Sande (Facilitador | Administrador): 
+          NOTA: 4/5
+	  El miembro del equipo ha realizado su función correctamente. Por temas personales no pudo quedar con los
+	  otros miembros lo cual creo malentendidos menores que no repercutieron en el desarrollo de la practica. 
+
+- Iria Pardo Neira (Curadora | Traductora):
+          NOTA: 5/5
+          Este miembro del equipo ha realizado su función correctamente. Fue la miembro que mas tiro del carro,
+		  tratando de que quedara todo lo mejor posible y entendiendo de la mejor manera css y html.
+		  Tambien apoyo a Santi cuando no estaba al 100%.
+
+
+
+Semana del 03/12 al 10/12
+
+------------------------------------------------
+CALIFICACIÓN SEMANAL DE LOS MIEMBROS DEL EQUIPO:
+------------------------------------------------
+
+- Santiago Alfredo Castro Rampersad (Analista):
+          NOTA: 5/5
+	  Por su capacidad de encotrar los fallos y resolverlos eficazmente.
+
+- Daniela Alejandra Cisneros Sande (Facilitador | Administrador): 
+          NOTA: 5/5
+	  Por pensar un diseño de tablet y desktop facil de implementar.
+
+- Iria Pardo Neira (Curadora | Traductora):
+          NOTA: 5/5
+		Por encontrar rápidamente información para llevar a cabo la tarea y
+		saber como y donde tocaba hacer los cambios.
+
+Semana del 10/12 al 17/12
+
+------------------------------------------------
+CALIFICACIÓN SEMANAL DE LOS MIEMBROS DEL EQUIPO:
+------------------------------------------------
+
+- Santiago Alfredo Castro Rampersad (Analista):
+          NOTA: 5/5
+	  
+- Daniela Alejandra Cisneros Sande (Facilitador | Administrador): 
+          NOTA: 5/5
+	  
+- Iria Pardo Neira (Curadora | Traductora):
+          NOTA: 5/5
+
+Le asigno la maxima nota a todos los componentes del equipo, ya que esta semana se trabajo de forma muy equitativa y 
+todo salio de manera impecable y sin ningun problema.
+
+REFLEXIÓN FINAL
+
+Lo mejor de la practica considero que fue aprender html, css y js ya que son lenguajes muy usados y es bueno tener estos
+conocimientos para el futuro. Lo peor ir a ciegas al principio de no saber nada de los lenguajes. Al estar curtidos de 
+las otras dos practicas se hizo mas llevadero. Lo mejor de cada semanas es las bromas y risas mientras estamos programando.
+No recuerdo momentos malos.
+
+
+
+
+		
+       

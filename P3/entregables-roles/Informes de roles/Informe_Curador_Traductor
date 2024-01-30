@@ -1,0 +1,60 @@
+Informe Curador - Traductor Iria Pardo Neira - Semana 1
+
+Objetivos de aprendizaje en la primera tarea:
+
+	- Diseño de aplicaciones web en dispositivos móviles.
+	- Elección de un diseño original y agradable de fácil interacción con el usuario.
+	- Implementación del diseño.
+		- Aprender a utilizar los lenguajes html5 y css3.
+		- Seguir las pautas del W3C de forma efectiva.
+		- Usar html semántico y siguiendo las normas de accesibilidad WCAG2.
+		- Implementación del diseño sin las ayudas de ninguna librería o framework CSS.
+
+Recursos empleados:
+
+	- Vídeos de YouTube.
+		- Inspiración para el formulario de añadir tarea -> https://youtu.be/5BeM3-_8788?si=0wUpm0HOUcB89wjs
+		- Inspiración para la lista de tareas -> https://youtu.be/G0jO8kUrg-I?si=hz5oyIJgsGecEOz8 
+
+	- W3 Schools -> https://www.w3schools.com/
+		- Ayuda para implementar el navigation bar -> https://www.w3schools.com/css/css_navbar.asp
+		- Ayuda sobre cómo usar html para la creación de listas, etc.
+
+	- Aplicación de distintos estilos.
+		- Gradientes para colores de fondo -> https://cssgradient.io
+		- Paletas de color para la aplicación -> https://coolors.co
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+Informe Curador - Traductor Iria Pardo Neira - Semana 2
+
+Objetivos de aprendizaje en la segunda tarea:
+
+	- Extensión del diseño a otros dispositivos.
+	- Implementación de un diseño adaptable siguiendo las normas WCAG 2 y las pautas del W3C.
+	- Responsive design y compatibilidad cross-browser.
+
+Recursos empleados:
+
+	- Páginas web seguida como ejemplo de Responsive Web Design -> https://www.w3schools.com/css/css_rwd_intro.asp
+	- Validador css -> https://jigsaw.w3.org/css-validator/
+	- Validador html -> https://validator.w3.org
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+Informe Curador - Traductor Iria Pardo Neira - Semana 3
+
+Objetivos de aprendizaje en la segunda tarea:
+
+	- Ajuste de una página web a las normas de accesiblidad WAI-ARIA.
+	- Uso de Javascript sin ninguna librería.
+
+Recursos empleados:
+
+	- Instalar en chrome un validador WAI-ARIA -> https://pressbooks.library.torontomu.ca/wafd/chapter/validating-wai-aria/
+	- Requisitos de WAI-ARIA -> https://web.ua.es/es/accesibilidad/accesibilidad-web/wai-aria.html, https://www.w3.org/WAI/standards-guidelines/aria/
+	- Creación de elementos de una lista al submitear un formulario -> https://www.youtube.com/watch?v=eScLV264SSI&ab_channel=CodewithBibek
+	- Validación de formulario -> https://www.youtube.com/watch?v=CYlNJpltjMM&ab_channel=JavaScriptAcademy
+	- Hacer un botón de eliminar de la lista funcional -> https://www.youtube.com/watch?v=PqAaHf7JKls&ab_channel=CodewithBibek
+	- Alinear botones verticalmente para los menús desplegables -> https://www.w3schools.com/howto/howto_css_button_group_vertical.asp
+
